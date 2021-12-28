@@ -1,8 +1,8 @@
-<h1 align="center">PartyBot</h1>
+<h1 align="center">PartyBot FanRemade</h1>
 
 <p align="center">
     <a href="https://pepy.tech/project/partybotpackage" align="center">
-        <img alt="Downloads" src="https://pepy.tech/badge/partybotpackage">
+        <img alt="Downloads (Official)" src="https://pepy.tech/badge/partybotpackage">
     </a>
     <a href="https://www.python.org/downloads/release/python-361/" align="center">
         <img alt="Python" src="https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue">
@@ -12,14 +12,14 @@
     </a>
 </p>
 
-<p align="center">A Fortnite HTTP/XMPP bot coded in Python with party capabilities.</p>
+<p align="center">A Fortnite HTTP/XMPP bot coded in Python with party capabilities, Remaded by NOT BambiKu /p>
 
 ---
 
-## Offical Website
+## Offical Website (Not my)
 [PartyBot.net](https://partybot.net)
 
-## Discord Support
+## Discord Support (Not my)
 <a href="https://discord.gg/8heARRB"><img src="https://discordapp.com/api/guilds/624635034225213440/widget.png?style=banner2"></a>
 
 ## Installation
